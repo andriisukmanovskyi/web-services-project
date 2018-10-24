@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="calculatorClientSuite">
+    <test name="clientTest">
+        <classes>
+            <class name="com.epam.lab.RESTCalculatorClientTest"/>
+            <class name="com.epam.lab.SOAPCalculatorClientTest"/>
+        </classes>
+    </test>
+</suite>
