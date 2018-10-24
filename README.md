@@ -22,5 +22,5 @@ To run only REST client tests use maven command 'mvn -Dtest=RESTCalculatorClient
 To see testing reports go to 'web-services-project\AndriiSukmanovskyiClient\target\surefire-reports' directory and run 'index.html'.
 
 
-# P.S.
+# 
 If there are any quastions, you can connect with me via Skype.
